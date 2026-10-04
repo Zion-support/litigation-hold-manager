@@ -1,22 +1,11 @@
-# Litigation Hold Manager — Zion AI App Network
+# Litigation Hold Manager
 
-Defensible legal holds: custodian notices, acknowledgments, reminders, and release workflows with full audit trails.
+Defensible legal hold notices, custodian tracking and audit trails.
 
-**Live app:** https://ziontechgroup.com/litigation-hold-manager/
-**Free AI Discovery:** https://ziontechgroup.com/discovery/
-**Network hub:** https://github.com/Zion-support/zion-app-network
+> Part of the **Zion AI App Network** — see [ZION_APP_NETWORK.md](./ZION_APP_NETWORK.md).
 
-## Features
-- Custodian notice templates + acknowledgment tracking
-- Automated reminder and escalation schedules
-- Data source mapping per matter
-- Court-ready audit trail export
+## 🎯 Free AI Discovery
+https://ziontechgroup.com/discovery/ — free, always online; results shared instantly with you and commercial@ziontechgroup.com.
 
-## Sibling apps in Batch 74 — Legal & Compliance AI
-- [Legal Contract Analyzer](https://github.com/Zion-support/legal-contract-analyzer)
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer)
-- [GDPR DSAR Autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot)
-- [Vendor Risk Assessor](https://github.com/Zion-support/vendor-risk-assessor)
-- [Regulatory Change Radar](https://github.com/Zion-support/regulatory-change-radar)
-
-See [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md).
+## 🔗 Links
+- https://ziontechgroup.com | Plans: https://ziontechgroup.com/en/plans/ | Showcase: https://ziontechgroup.com/apps/network.html | Hub: https://github.com/Zion-support/zion-network
